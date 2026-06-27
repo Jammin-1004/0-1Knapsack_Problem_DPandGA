@@ -1,1 +1,1 @@
-# 0-1Knapsack_Problem_-DP-GA-
+# 0-1Knapsack_Problem_Dynamic Programing & Genetic Algorithm
